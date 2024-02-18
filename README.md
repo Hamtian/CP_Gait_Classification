@@ -172,13 +172,13 @@ Among all the models explored in this study, which include SVM, KNN, Decision Tr
 
 The Support Vector Machine (SVM) algorithm showcases robust performance on this dataset, with high accuracy scores both in cross-validation and on the unseen test set. The Bagged Trees Ensemble also outperforms single tree models, aligning with expectations for ensemble methods. The respective confusion matrices and ROC curves for each model, displayed in the provided figures, offer a detailed look into model accuracy and the trade-off between true positive rates and false positive rates.
 
-- **SVM Results:**
+### SVM Results:
 
 ![svm confusion matrix](images/19cm.png)
 
 ![svm roc curve](images/20roc.png)
 
-- **Bagged Trees Ensemble Results:**
+### Bagged Trees Ensemble Results:
 
 ![bagged trees ensemble confusion matrix](images/21cm.png)
 

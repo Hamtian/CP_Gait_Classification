@@ -1,6 +1,6 @@
 # Cerebral Palsy Diagnosis with Data Science and Machine Learning Techniques
 
-<img src="images/intro.png" alt="machine learning for cerebral palsy image" width="1000">
+<img src="images/introduction.png" alt="machine learning for cerebral palsy image" width="1000">
 
 ## Abstract
 
